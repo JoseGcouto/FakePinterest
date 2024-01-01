@@ -1,2 +1,0 @@
-# FakePinterest
- Clone do Pinterest
